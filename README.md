@@ -5,4 +5,6 @@
 3. using maven to build a war file
 
 
-author: zwqStella  e-mail: zwqStella@hotmail.com
+author: zwqStella     e-mail: zwqStella@hotmail.com
+
+btw: not well groomed github :(  forgive me. I'll try harder.
